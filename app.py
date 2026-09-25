@@ -21,13 +21,15 @@ st.set_page_config(
 # =========================================================
 
 PRODUCTS = {
-    "Shawarma": 150,
-    "Chicken Tikka": 200,
-    "Quarter Alfaham": 180,
-    "Half Alfaham": 320,
-    "Full Alfaham": 600,
-    "Chicken 65": 150,
-    "French Fries": 100,
+    "Roll Shawarma": 60,
+    "Plate Shawarma": 110,
+    "Meat Shawarma roll": 80,
+    "Meat Shawarma Plate": 140,
+    "Tikka": 70,
+    "Boneless Tikka": 240,
+    "Quarter Alfam": 150,
+    "Half Alfam": 240,
+    "Full Alfam": 420,
 }
 # =========================================================
 # SESSION STATE
